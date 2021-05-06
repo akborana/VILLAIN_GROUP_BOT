@@ -20,7 +20,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![Villain logo](https://telegra.ph/file/1d5b67c7d155ddb587cde.jpg)](https://t.me/akborana)
+[![Villain logo](https://telegra.ph/file/e4778088f85fcf83860fb.jpg)](https://t.me/akborana)
 
 ## Deploy
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTEAMDAISYXDEVS%2FDaisyX-P&template=https%3A%2F%2Fgithub.com%2FTEAMDAISYXDEVS%2FDaisyX-P)
