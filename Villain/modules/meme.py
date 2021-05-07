@@ -10,7 +10,7 @@ from telegram.utils.helpers import escape_markdown
 
 import Villain.modules.helper_funcs.fun_strings as fun
 from Villain import DEMONS, DRAGONS, dispatcher
-from Villain.modules.disable import DisableAbleCommandHandler 
+from Villain.modules.disable import DisableAbleCommandHandler
 from Villain.modules.helper_funcs.alternate import typing_action
 from Villain.modules.helper_funcs.extraction import extract_user
 
