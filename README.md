@@ -2,7 +2,7 @@
 
 <h3>😈The Most Powerfull Group Management Bot </h3>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/TEAMDAISYXDEVS/DaisyX?utm_source=github.com&utm_medium=referral&utm_content=TEAMDAISYXDEVS/DaisyX&utm_campaign=Badge_Grade_Settings)
+[![𝕍𝕀𝕃𝕃𝔸𝕀ℕ 𝕃𝕆𝔾𝕆](https://telegra.ph/file/c6001b578779094a544d2.jpg)](t.me/Villain_Robot)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/TEAMDAISYXDEVS/DaisyX)
