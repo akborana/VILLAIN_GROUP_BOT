@@ -224,7 +224,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>".format(
+            "JINDA HU BSDKE!\n<b>Itne time na soya:</b> <code>{}</code>".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
@@ -365,7 +365,7 @@ def Villain_about_callback(update, context):
             text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by AKAY TEAM .* "
             f"\n\n 🔥 Join [AKAY TEAM](https://t.me/AKBORANA) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
-            f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/473cc17913393959e0667.jpg)"
+            f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/e754938f13877250f0d56.jpg)"
             f"\n\n👇 You Can Know More About Me By Clicking The Below Buttons 👇",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -420,9 +420,9 @@ def Villain_about_callback(update, context):
         )
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
-            text=f"*{dispatcher.bot.first_name} Is the redisigned version of Daisy and Naruto for the best performance.*"
-            f"\n\nBased on [RAVAN](https://github.com/TEAMDAISYXDEVS) + [Villain](https://t.me/Akborana)."
-            f"\n\n{dispatcher.bot.first_name}'s source code was written by ScamRand and DEVELOPER"
+            text=f"*{dispatcher.bot.first_name} Is the redisigned version of Villain and Naruto for the best performance.*"
+            f"\n\nBased on [RAVAN](https://github.com/AKBORANA) + [Villain](https://t.me/Akborana)."
+            f"\n\n{dispatcher.bot.first_name}'s source code was written by AKAY and DEVELOPER"
             f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{SUPPORT_CHAT}.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -873,4 +873,5 @@ if __name__ == "__main__":
     pbot.start()
     main()
 
-#TEAM
+#TEAM AKAY 
+#THANKS @TheCodentsSocial TEAM
