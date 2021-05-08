@@ -65,33 +65,33 @@ from Villain.modules.helper_funcs.misc import paginate_modules
 from Villain.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [𝓓𝓪𝓲𝓼𝔂 𝓧](https://telegra.ph/file/473cc17913393959e0667.jpg)
+Hello there, I'm [𝔙𝔦𝔩𝔩𝔞𝔦𝔫](https://telegra.ph/file/c6001b578779094a544d2.jpg)
 
-I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
+I am Hindi Themed Group Managing Bot and I will help in managing your group like a pro user
 
-✪ Make sure you read *INFO* Section Below ✪ 
+👿 Make sure you read *ABOUT ME* Section Below 😈 
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),
+        InlineKeyboardButton(text="ABOUT ME😎", callback_data="aboutmanu_"),
     ],
     [
         InlineKeyboardButton(text="❓ Help & Commands ❓", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Daisy to your group 💫", url="t.me/daisybeta_Bot?startgroup=true"
+            text="💫 Add Villain to your group 💫", url="t.me/daisybeta_Bot?startgroup=true"
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/473cc17913393959e0667.jpg)
-✪ /start: Starts me! You've probably already used this.
-✪ /help: Click this, I'll let you know about myself!
-✪ /donate: You can support my creater using this command.
+*Main Commands :* [🤖](https://telegra.ph/file/e754938f13877250f0d56.jpg)
+✪ /start: Starts me! SEE MAGIC☠️.
+✪ /help: Click this, ALL MY COMMAND 😎!
+✪ /donate: temporary Not available (+_+).
 ✪ /settings: 
    ◔ in PM: will send you your settings for all supported modules.
    ◔ in a Group: will redirect you to pm, with all that chat's settings.
@@ -101,7 +101,7 @@ HELP_STRINGS = f"""
 )
 
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
+DONATE_STRING = """Heya, glad to hear you want to donate! but temporary not available
 You can donate to the original writer's of the Base code,
 Support them  [ABOUT AKAY](t.me/AKBORANA1),[AKAY](t.me/akborana),"""
 
